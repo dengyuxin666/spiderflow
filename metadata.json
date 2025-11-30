@@ -1,0 +1,5 @@
+{
+  "name": "SpiderFlow Crawler Manager",
+  "description": "A professional dashboard for managing web crawler tasks, configuring scraping rules by depth, and analyzing captured data.",
+  "requestFramePermissions": []
+}
